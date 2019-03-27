@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-<<<<<<< HEAD
 # P5.js 
 
 
@@ -13,8 +12,8 @@ p5.js is a new interpretation, not an emulation or port, and it is in active dev
 If you already know the basics of JavaScript or Processing, the p5.js overview wiki page is a good place to start.
 
 If you have found a bug in the p5.js library, you can file it here under the “issues” tab. An indicative template for reporting an issue is provided to assist you (and us!) better.
-
 <<<<<<< HEAD
+
 ## p5.js library
 =======
 
@@ -24,7 +23,6 @@ You can also start with the codepen template. You may need to update the version
 
 Community maintained typescript definitions are here.
 
-<<<<<<< HEAD
 ## Issues
 Please post bugs in the correct repository:
 
@@ -44,30 +42,6 @@ Check out p5js.org for lots more! Here are some quick-links:
 - Libraries: Extend p5 functionality to interact with HTML, manipulate sound, and more!
 - Get Involved
 
-=======
-Issues
-Please post bugs in the correct repository:
-
-p5.js general and p5.dom: https://github.com/processing/p5.js/issues
-p5.sound: https://github.com/processing/p5.js-sound/issues
-p5.js website: https://github.com/processing/p5.js-website/issues
-p5.js web editor: https://github.com/processing/p5.js-web-editor/issues
-Learning
-Check out p5js.org for lots more! Here are some quick-links:
-
-Get Started: Create and run your first sketch!
-p5.js overview — An overview of the main features and functionality of p5.js.
-Reference: The functionality supported by p5.js.
-Learn: Tutorials and short, prototypical examples exploring the basics of p5.js.
-Forum: Ask and answers questions about how to make things with p5.js here.
-Libraries: Extend p5 functionality to interact with HTML, manipulate sound, and more!
-Get Involved
-
-p5.js is a collaborative project created by many individuals, and you are invited to help. All types of involvement are welcome. See the community section to get started!
-
-Developers, check out the developer docs for more in-depth details about contributing code, bug fixes, and documentation.
-
-<<<<<<< HEAD
 ## Contributors
 
 We recognize all types of contributions. This project follows the all-contributors specification. Instructions to add yourself or add contribution emojis to your name are here.
